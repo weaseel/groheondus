@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="groheondus",
-    version="0.0.1",
+    version="0.0.2",
     description="Grohe Ondus",
     long_description="""
         With this Python module you can read data from Grohe Ondus""",
